@@ -5,7 +5,7 @@ A modern, feature-rich Todo App built using **HTML, CSS, and JavaScript** with a
 ---
 
 ## 🌐 Live Demo
-👉 https://yourusername.github.io/todo-app/
+👉 https://Billu06092002.github.io/todo-app/
 
 ---
 
@@ -92,7 +92,7 @@ This project demonstrates:
 ## 💼 Featured Projects
 
 🔹 Smart Todo App  
-👉 https://yourusername.github.io/todo-app/  
+👉 https://Billu06092002.github.io/todo-app/  
 👉 https://github.com/Billu06092002/todo-app
 
 ---
