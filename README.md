@@ -89,6 +89,14 @@ This project demonstrates:
 
 ---
 
+## 💼 Featured Projects
+
+🔹 Smart Todo App  
+👉 https://yourusername.github.io/todo-app/  
+👉 https://github.com/Billu06092002/todo-app
+
+---
+
 ## ⭐ Support
 
 If you like this project:
