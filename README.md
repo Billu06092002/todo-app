@@ -10,7 +10,7 @@ A modern, feature-rich Todo App built using **HTML, CSS, and JavaScript** with a
 ---
 
 ## 📸 Preview
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot todo app.png)
 
 ---
 
