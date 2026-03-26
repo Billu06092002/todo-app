@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Insane Todo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>⚡ Insane Todo</h1>
+
+  <div class="top-bar">
+    <input type="text" id="taskInput" placeholder="Enter task...">
+    <input type="date" id="dueDate">
+    <button onclick="addTask()">Add</button>
+  </div>
+
+  <input type="text" id="search" placeholder="Search..." onkeyup="searchTasks()">
+
+  <div class="filters">
+    <button onclick="filterTasks('all')">All</button>
+    <button onclick="filterTasks('completed')">Done</button>
+    <button onclick="filterTasks('pending')">Pending</button>
+  </div>
+
+  <ul id="taskList"></ul>
+
+  <p id="counter"></p>
+
+  <button onclick="toggleDark()">🌙 Toggle Theme</button>
+</div>
+
+<div id="toast"></div>
+
+<script src="script.js"></script>
+</body>
+</html>
